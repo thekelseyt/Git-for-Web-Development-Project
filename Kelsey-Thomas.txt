@@ -1,4 +1,4 @@
-link to finished codepen: https://codepen.io/thekelseyt/pen/qBZXzgM?editors=1100
+link to finished codepen: https://codepen.io/thekelseyt/pen/qBZXzgM
 
 Questions:
     1. What is Semantic HTML? 
